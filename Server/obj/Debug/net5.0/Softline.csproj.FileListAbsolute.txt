@@ -1,0 +1,132 @@
+C:\Users\davek\testSoftline\Softline\obj\Debug\net5.0\Softline.csproj.AssemblyReference.cache
+C:\Users\davek\testSoftline\Softline\obj\Debug\net5.0\Softline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davek\testSoftline\Softline\obj\Debug\net5.0\Softline.AssemblyInfoInputs.cache
+C:\Users\davek\testSoftline\Softline\obj\Debug\net5.0\Softline.AssemblyInfo.cs
+C:\Users\davek\testSoftline\Softline\obj\Debug\net5.0\Softline.csproj.CoreCompileInputs.cache
+C:\Users\davek\testSoftline\Softline\obj\Debug\net5.0\Softline.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\davek\testSoftline\Softline\obj\Debug\net5.0\Softline.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\davek\testSoftline\Softline\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\davek\testSoftline\Softline\bin\Debug\net5.0\appsettings.json
+C:\Users\davek\testSoftline\Softline\bin\Debug\net5.0\Softline.exe
+C:\Users\davek\testSoftline\Softline\bin\Debug\net5.0\Softline.deps.json
+C:\Users\davek\testSoftline\Softline\bin\Debug\net5.0\Softline.runtimeconfig.json
+C:\Users\davek\testSoftline\Softline\bin\Debug\net5.0\Softline.runtimeconfig.dev.json
+C:\Users\davek\testSoftline\Softline\bin\Debug\net5.0\Softline.dll
+C:\Users\davek\testSoftline\Softline\bin\Debug\net5.0\ref\Softline.dll
+C:\Users\davek\testSoftline\Softline\bin\Debug\net5.0\Softline.pdb
+C:\Users\davek\testSoftline\Softline\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\davek\testSoftline\Softline\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\davek\testSoftline\Softline\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\davek\testSoftline\Softline\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\davek\testSoftline\Softline\obj\Debug\net5.0\staticwebassets\Softline.StaticWebAssets.Manifest.cache
+C:\Users\davek\testSoftline\Softline\obj\Debug\net5.0\staticwebassets\Softline.StaticWebAssets.xml
+C:\Users\davek\testSoftline\Softline\obj\Debug\net5.0\scopedcss\bundle\Softline.styles.css
+C:\Users\davek\testSoftline\Softline\obj\Debug\net5.0\Softline.RazorTargetAssemblyInfo.cache
+C:\Users\davek\testSoftline\Softline\obj\Debug\net5.0\Softline.csproj.CopyComplete
+C:\Users\davek\testSoftline\Softline\obj\Debug\net5.0\Softline.dll
+C:\Users\davek\testSoftline\Softline\obj\Debug\net5.0\ref\Softline.dll
+C:\Users\davek\testSoftline\Softline\obj\Debug\net5.0\Softline.pdb
+C:\Users\davek\testSoftline\Softline\obj\Debug\net5.0\Softline.genruntimeconfig.cache
+C:\Users\davek\testSoftline\Softline\bin\Debug\net5.0\Humanizer.dll
+C:\Users\davek\testSoftline\Softline\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\davek\testSoftline\Softline\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\davek\testSoftline\Softline\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\davek\testSoftline\Softline\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\davek\testSoftline\Softline\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\davek\testSoftline\Softline\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\davek\testSoftline\Softline\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\davek\testSoftline\Softline\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\davek\testSoftline\Softline\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\davek\testSoftline\Softline\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\davek\testSoftline\Softline\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\davek\testSoftline\Softline\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\davek\testSoftline\Softline\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\davek\testSoftline\Softline\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\davek\testSoftline\Softline\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\davek\testSoftline\Softline\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\davek\testSoftline\Softline\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\davek\testSoftline\Softline\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\davek\testSoftline\Softline\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\davek\testSoftline\Softline\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\davek\testSoftline\Softline\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\davek\testSoftline\Softline\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\davek\testSoftline\Softline\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\davek\testSoftline\Softline\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\davek\testSoftline\Softline\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\davek\testSoftline\Softline\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\davek\testSoftline\Softline\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\davek\testSoftline\Softline\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\davek\testSoftline\Softline\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\davek\testSoftline\Softline\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\davek\testSoftline\Softline\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\davek\testSoftline\Softline\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\davek\testSoftline\Softline\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\davek\testSoftline\Softline\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\davek\testSoftline\Softline\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\davek\testSoftline\Softline\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\davek\OneDrive\Рабочий стол\TestTask\Server\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\davek\OneDrive\Рабочий стол\TestTask\Server\bin\Debug\net5.0\appsettings.json
+C:\Users\davek\OneDrive\Рабочий стол\TestTask\Server\bin\Debug\net5.0\Softline.exe
+C:\Users\davek\OneDrive\Рабочий стол\TestTask\Server\bin\Debug\net5.0\Softline.deps.json
+C:\Users\davek\OneDrive\Рабочий стол\TestTask\Server\bin\Debug\net5.0\Softline.runtimeconfig.json
+C:\Users\davek\OneDrive\Рабочий стол\TestTask\Server\bin\Debug\net5.0\Softline.runtimeconfig.dev.json
+C:\Users\davek\OneDrive\Рабочий стол\TestTask\Server\bin\Debug\net5.0\Softline.dll
+C:\Users\davek\OneDrive\Рабочий стол\TestTask\Server\bin\Debug\net5.0\ref\Softline.dll
+C:\Users\davek\OneDrive\Рабочий стол\TestTask\Server\bin\Debug\net5.0\Softline.pdb
+C:\Users\davek\OneDrive\Рабочий стол\TestTask\Server\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\davek\OneDrive\Рабочий стол\TestTask\Server\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\davek\OneDrive\Рабочий стол\TestTask\Server\bin\Debug\net5.0\Humanizer.dll
+C:\Users\davek\OneDrive\Рабочий стол\TestTask\Server\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\davek\OneDrive\Рабочий стол\TestTask\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\davek\OneDrive\Рабочий стол\TestTask\Server\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\davek\OneDrive\Рабочий стол\TestTask\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\davek\OneDrive\Рабочий стол\TestTask\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\davek\OneDrive\Рабочий стол\TestTask\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\davek\OneDrive\Рабочий стол\TestTask\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\davek\OneDrive\Рабочий стол\TestTask\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\davek\OneDrive\Рабочий стол\TestTask\Server\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\davek\OneDrive\Рабочий стол\TestTask\Server\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\davek\OneDrive\Рабочий стол\TestTask\Server\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\davek\OneDrive\Рабочий стол\TestTask\Server\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\davek\OneDrive\Рабочий стол\TestTask\Server\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\davek\OneDrive\Рабочий стол\TestTask\Server\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\davek\OneDrive\Рабочий стол\TestTask\Server\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\davek\OneDrive\Рабочий стол\TestTask\Server\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\davek\OneDrive\Рабочий стол\TestTask\Server\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\davek\OneDrive\Рабочий стол\TestTask\Server\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\davek\OneDrive\Рабочий стол\TestTask\Server\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\davek\OneDrive\Рабочий стол\TestTask\Server\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\davek\OneDrive\Рабочий стол\TestTask\Server\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\davek\OneDrive\Рабочий стол\TestTask\Server\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\davek\OneDrive\Рабочий стол\TestTask\Server\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\davek\OneDrive\Рабочий стол\TestTask\Server\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\davek\OneDrive\Рабочий стол\TestTask\Server\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\davek\OneDrive\Рабочий стол\TestTask\Server\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\davek\OneDrive\Рабочий стол\TestTask\Server\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\davek\OneDrive\Рабочий стол\TestTask\Server\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\davek\OneDrive\Рабочий стол\TestTask\Server\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\davek\OneDrive\Рабочий стол\TestTask\Server\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\davek\OneDrive\Рабочий стол\TestTask\Server\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\davek\OneDrive\Рабочий стол\TestTask\Server\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\davek\OneDrive\Рабочий стол\TestTask\Server\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\davek\OneDrive\Рабочий стол\TestTask\Server\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\davek\OneDrive\Рабочий стол\TestTask\Server\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\davek\OneDrive\Рабочий стол\TestTask\Server\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\davek\OneDrive\Рабочий стол\TestTask\Server\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\davek\OneDrive\Рабочий стол\TestTask\Server\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\davek\OneDrive\Рабочий стол\TestTask\Server\obj\Debug\net5.0\Softline.csproj.AssemblyReference.cache
+C:\Users\davek\OneDrive\Рабочий стол\TestTask\Server\obj\Debug\net5.0\Softline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davek\OneDrive\Рабочий стол\TestTask\Server\obj\Debug\net5.0\Softline.AssemblyInfoInputs.cache
+C:\Users\davek\OneDrive\Рабочий стол\TestTask\Server\obj\Debug\net5.0\Softline.AssemblyInfo.cs
+C:\Users\davek\OneDrive\Рабочий стол\TestTask\Server\obj\Debug\net5.0\Softline.csproj.CoreCompileInputs.cache
+C:\Users\davek\OneDrive\Рабочий стол\TestTask\Server\obj\Debug\net5.0\Softline.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\davek\OneDrive\Рабочий стол\TestTask\Server\obj\Debug\net5.0\Softline.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\davek\OneDrive\Рабочий стол\TestTask\Server\obj\Debug\net5.0\staticwebassets\Softline.StaticWebAssets.Manifest.cache
+C:\Users\davek\OneDrive\Рабочий стол\TestTask\Server\obj\Debug\net5.0\staticwebassets\Softline.StaticWebAssets.xml
+C:\Users\davek\OneDrive\Рабочий стол\TestTask\Server\obj\Debug\net5.0\scopedcss\bundle\Softline.styles.css
+C:\Users\davek\OneDrive\Рабочий стол\TestTask\Server\obj\Debug\net5.0\Softline.RazorTargetAssemblyInfo.cache
+C:\Users\davek\OneDrive\Рабочий стол\TestTask\Server\obj\Debug\net5.0\Softline.csproj.CopyComplete
+C:\Users\davek\OneDrive\Рабочий стол\TestTask\Server\obj\Debug\net5.0\Softline.dll
+C:\Users\davek\OneDrive\Рабочий стол\TestTask\Server\obj\Debug\net5.0\ref\Softline.dll
+C:\Users\davek\OneDrive\Рабочий стол\TestTask\Server\obj\Debug\net5.0\Softline.pdb
+C:\Users\davek\OneDrive\Рабочий стол\TestTask\Server\obj\Debug\net5.0\Softline.genruntimeconfig.cache
